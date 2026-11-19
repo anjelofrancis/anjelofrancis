@@ -22,7 +22,6 @@
 ```ts
 const anjelo = {
   location:  "Nairobi, Kenya 🇰🇪",
-  studying:  "BSc Computer Science @ JKUAT",
   role:      "Full-stack web developer & designer",
   shipping:  ["Org websites in production", "Fintech for SMEs", "Rust mobile workers", "Azure monorepos"],
   stack:     ["TypeScript", "Node.js", "React", "PostgreSQL", "Rust", "Azure"],
