@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=200&section=header&text=Anjelo%20Oyolla&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Nairobi%2C%20Kenya&descAlignY=58&descSize=18" width="100%" />
+<a href="https://anjelooyolla.netlify.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=200&section=header&text=Anjelo%20Oyolla&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Nairobi%2C%20Kenya&descAlignY=58&descSize=18" width="100%" /></a>
+
+### 🌐 [anjelooyolla.netlify.app](https://anjelooyolla.netlify.app)
 
 <a href="https://anjelooyolla.netlify.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=640&lines=I+build+websites+for+real+organisations;Finance+apps+with+M-Pesa+%2B+Gemini+AI;Rust+background+workers+on+Android+%26+iOS;Monorepos+deployed+on+Azure" alt="Typing SVG" />
